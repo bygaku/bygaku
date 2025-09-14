@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ## Support Tools etc:
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,unity,ai,ps" />
+    <img src="https://skillicons.dev/icons?i=cmake,unity,ps,ai" />
   </a>
 </p>
