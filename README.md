@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=bygaku&theme=gruvbox&count_private=true&hide_progress=true&hide_border=true)
 
 ### Support Tools etc:
-[![tool_primary](https://skillicons.dev/icons?i=cmake,vscode,visualstudio,powershell,git,unity,ps,ai)](https://skillicons.dev)
+[![tool_primary](https://skillicons.dev/icons?i=cmake,vscode,visualstudio,powershell,vim,git,unity,ps,ai)](https://skillicons.dev)
 
 ## 🔗 Social Links
 
