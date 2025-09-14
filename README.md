@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **bygaku/bygaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Hi There! Hello There!
+### My Stats
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bygaku&theme=gruvbox)
+
+![](https://github-readme-stats.vercel.app/api/top-langs?username=bygaku&theme=gruvbox&count_private=true&hide_progress=true&hide_border=true)
+
+
