@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Hi There! Hello There!
-**composer / developer**
+### **composer / developer**
 
 ## 💡 Skills
 ### Stats:
