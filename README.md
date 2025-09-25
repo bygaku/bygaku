@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 ### Support Tools etc:
 [![tool_primary](https://skillicons.dev/icons?i=cmake,vscode,visualstudio,powershell,vim,git,unity,ps,ai)](https://skillicons.dev)
 
+- FL STUDIO
+- Reaper
+- JUCE Framework
+
 ## 🔗 Social Links
 
 **X: [@intwisty_](https://x.com/intwisty_/)**
