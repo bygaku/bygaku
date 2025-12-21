@@ -16,18 +16,16 @@ Here are some ideas to get you started:
 ### **composer / developer**
 
 ## 💡 Skills
-### Stats:
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bygaku&theme=gruvbox)
-
 ### Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs?username=bygaku&theme=gruvbox&count_private=true&hide_progress=true&hide_border=true)
+[![languages](https://skillicons.dev/icons?i=cpp,c,cs)](https://skillicons.dev)
 
-### Support Tools etc:
-[![tool_primary](https://skillicons.dev/icons?i=cmake,vscode,visualstudio,powershell,vim,git,unity,ps,ai)](https://skillicons.dev)
+### Tools:
+[![tools](https://skillicons.dev/icons?i=clion,vscode,cmake,git,unity,ps,ai)](https://skillicons.dev)
 
+### etc:
+- JUCE
 - FL STUDIO
 - Reaper
-- JUCE Framework
 
 ## 🔗 Social Links
 
