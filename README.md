@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![languages](https://skillicons.dev/icons?i=cpp,c,cs)](https://skillicons.dev)
 
 ### Tools:
-[![tools](https://skillicons.dev/icons?i=clion,vscode,cmake,git,unity,ps,ai)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=git,clion,vscode,cmake,unity,ps,ai)](https://skillicons.dev)
 
 ### etc:
 - JUCE
