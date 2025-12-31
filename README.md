@@ -31,6 +31,14 @@ Here are some ideas to get you started:
 
 **X: [@intwisty_](https://x.com/intwisty_/)**
 
+
 **Instagram: [@intwisty_](https://www.instagram.com/intwisty_/)**
 
-**SoundCloud: [@musicbygvku](https://soundcloud.com/musicbygvku/)**
+
+**SoundCloud: [@GVKU](https://soundcloud.com/musicbygvku/)**
+
+**SoundCloud: [@fanion.](https://soundcloud.com/fanionmusic/)**
+
+**SoundCloud: [@yugaku](https://soundcloud.com/yugakumusic/)**
+
+**SoundCloud: [@gaku fujii](https://soundcloud.com/intwisty/)**
