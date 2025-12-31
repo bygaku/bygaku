@@ -41,4 +41,4 @@ Here are some ideas to get you started:
 
 **SoundCloud: [@yugaku](https://soundcloud.com/yugakumusic/)**
 
-**SoundCloud: [@gaku fujii](https://soundcloud.com/intwisty/)**
+**SoundCloud: [@gaku](https://soundcloud.com/intwisty/)**
