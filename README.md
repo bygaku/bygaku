@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 ## 💡 Skills
 ### Languages:
-[![languages](https://skillicons.dev/icons?i=cpp,c,cs)](https://skillicons.dev)
+[![languages](https://skillicons.dev/icons?i=cpp,c,cs,js)](https://skillicons.dev)
 
 ### Tools:
-[![tools](https://skillicons.dev/icons?i=git,clion,vscode,cmake,unity,ps,ai)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=git,clion,vscode,cmake,unity,qt,ps,ai)](https://skillicons.dev)
 
 ### etc:
 - JUCE
