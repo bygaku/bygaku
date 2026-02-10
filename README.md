@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 <h3 align="center">Langueges / Frameworks</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,js,qt"/>
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,js,html,css,qt"/>
   </a>
 </p>
 
